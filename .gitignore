@@ -5,12 +5,5 @@ tst.txt
 tmp*.txt
 Private-*.xml
 playground/*
-instance-lists/dev-example.txt
-instance-lists/dev-example.txt
-instance-lists/dotmobi.txt
-instance-lists/dev-example.txt
-instance-lists/jspp.txt
-instance-lists/prd-example.txt
-instance-lists/test.txt
-instance-lists/tst-example.txt
+instance-lists/*.txt
 slack-webhooks/*.txt
