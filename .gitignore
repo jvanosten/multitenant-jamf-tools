@@ -13,5 +13,4 @@ instance-lists/jspp.txt
 instance-lists/prd-example.txt
 instance-lists/test.txt
 instance-lists/tst-example.txt
-slack-webhooks/dotmobi.txt
-slack-webhooks/jspp.txt
+slack-webhooks/*.txt
